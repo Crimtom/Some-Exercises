@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\bin\Debug\net8.0\Clase3ejercicios.exe
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\bin\Debug\net8.0\Clase3ejercicios.deps.json
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\bin\Debug\net8.0\Clase3ejercicios.runtimeconfig.json
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\bin\Debug\net8.0\Clase3ejercicios.dll
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\bin\Debug\net8.0\Clase3ejercicios.pdb
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.AssemblyInfo.cs
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.dll
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\refint\Clase3ejercicios.dll
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.pdb
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\Clase3ejercicios.genruntimeconfig.cache
+C:\Users\adria\source\repos\Clase3ejercicios\Clase3ejercicios\obj\Debug\net8.0\ref\Clase3ejercicios.dll
